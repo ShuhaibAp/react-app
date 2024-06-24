@@ -33,7 +33,7 @@ body::after {
   margin: 0 20px;
   padding: 70px 30px 44px;
   border-radius: 20px;
-  background: rgb(24 21 36 /66%);
+  background: rgba(31, 47, 7, 0.66);
   backdrop-filter: blur(10px);
   text-align: center;
 }
